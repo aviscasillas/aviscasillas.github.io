@@ -1,0 +1,15 @@
+.terminal {
+  font-family: "Droid Sans Mono", "Courier New", monospace;
+  border: 1px solid #aaa;
+  background-color: #000;
+  color: #fff;
+  padding: 10px;
+  width: 600px;
+  margin: auto;
+}
+
+.clipboard {
+  opacity: 0.01;
+  filter: alpha(opacity = 0.01);
+  filter: progid:DXImageTransform.Microsoft.Alpha(opacity=0.01);
+}

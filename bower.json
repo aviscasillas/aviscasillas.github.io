@@ -16,6 +16,6 @@
     "tests"
   ],
   "dependencies": {
-    "jquery": "latest"
+    "jquery.terminal": "latest"
   }
 }
