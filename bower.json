@@ -1,0 +1,21 @@
+{
+  "name": "aviscasillas.github.io",
+  "version": "0.0.0",
+  "homepage": "https://aviscasillas.github.io",
+  "authors": [
+    "Albert Viscasillas <aviscasillas@gmail.com>"
+  ],
+  "description": "aviscasillas home page",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "latest"
+  }
+}
